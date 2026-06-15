@@ -1,0 +1,6 @@
+{
+    "task_name": "Hey there! What's the issue you're facing?",
+    "task_description": "Tell me more about the issue. What's going on?",
+    "task_urgency": "How urgent is this task? Choose your urgency: Urgent, High, Medium, or Low.",
+    "relevant_link": "Do you have any relevant links for this task? (Optional, type 'skip' to leave blank)"
+}

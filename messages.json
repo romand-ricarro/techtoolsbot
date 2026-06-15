@@ -1,0 +1,18 @@
+{
+    "task_name_empty": "Whoops! Looks like you forgot to name your quest. Please give it a snazzy title.",
+    "task_description_empty": "Uh-oh! We need some details to proceed. Please provide a compelling description.",
+    "invalid_priority": "Oops! That priority level doesn't compute. Accepted values are: Urgent, High, Medium, Low. Give it another go!",
+    "stop_message": "Session terminated. If you need to start over, just click the wand emoji or just say hi to re-engage the bot.",
+    "session_timeout": "Time's up! Click the wand emoji or say hello to reawaken the bot and try again.",
+    "not_linked_message": "Alert! Your Discord ID isn't linked to a ClickUp username. Please contact anyone from the Tech Tools team for assistance.",
+    "task_creation_failure": "Yikes! Something went wrong while creating the task: {error}.",
+    "task_creation_success": "Mission accomplished! Your task has been created. Here is your link: {task_url}",
+    "thank_you": "Thank you for riding with Tech Tools Express! Until next time, stay techy!",
+    "cooldown_message": "Cool down in progress. Please wait {minutes} minutes and {seconds} seconds before rebooting your request.",
+    "cooldown_end": "Cool down complete! You can now activate the bot again.",
+    "active_session": "Hold up! You already have an active session. Please finish it before launching a new one.",
+    "invalid_priority_error": "Whoops! That priority level doesn't compute. Accepted values are: urgent, high, medium, low.",
+    "command_success": "Task created: {task_url}",
+    "command_error": "Error: {error}"
+  }
+  
